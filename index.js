@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Đăng Ký Hội Viên Của Levi Đi Mà","Bot này ăn cơm sống qua ngày", "Donate cho bot tại kofi.com/Nemillia"];
+const statusMessages = ["Đăng ký hội viên của Levi đi","Bot này ăn cơm sống qua ngày", "Donate cho bot tại kofi.com/Nemillia","Bot sống lâu hơn trong mơ"];
 
 
 let currentIndex = 0;
